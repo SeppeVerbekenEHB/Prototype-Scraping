@@ -18,22 +18,38 @@ app.get('/', (req, res) => {
 app.get('/scrape', (req, res) => {
 
     // Get the selected category from query params
-    const category = req.query.category || 'sneakers'; // Default to 'sneakers' if no category is provided
-    console.log(`Scraping category: ${category}`);
+    const category = req.query.category || 'sneakers';
+    const gender = req.query.gender || 'heren';
+    console.log(`Scraping category: ${category} for gender: ${gender}`);
 
     // Modify the URL based on the selected category
     const CATEGORY_URLS = {
-        'sneakers': 'https://www.torfs.be/nl/heren/schoenen/sneakers/',
-        'geklede-schoenen': 'https://www.torfs.be/nl/heren/schoenen/geklede-schoenen/',
-        'lage-schoenen': 'https://www.torfs.be/nl/heren/schoenen/lage-schoenen/',
-        'hoge-schoenen': 'https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/',
-        'boots': 'https://www.torfs.be/nl/heren/schoenen/boots/',
-        'pantoffels': 'https://www.torfs.be/nl/heren/schoenen/pantoffels/',
-        'outdoorschoenen': 'https://www.torfs.be/nl/heren/schoenen/outdoorschoenen/',
-        'sandalen-en-slippers': 'https://www.torfs.be/nl/heren/schoenen/sandalen-en-slippers/'
+        heren: {
+            'sneakers': 'https://www.torfs.be/nl/heren/schoenen/sneakers/',
+            'geklede-schoenen': 'https://www.torfs.be/nl/heren/schoenen/geklede-schoenen/',
+            'lage-schoenen': 'https://www.torfs.be/nl/heren/schoenen/lage-schoenen/',
+            'hoge-schoenen': 'https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/',
+            'boots': 'https://www.torfs.be/nl/heren/schoenen/boots/',
+            'pantoffels': 'https://www.torfs.be/nl/heren/schoenen/pantoffels/',
+            'outdoorschoenen': 'https://www.torfs.be/nl/heren/schoenen/outdoorschoenen/',
+            'sandalen-en-slippers': 'https://www.torfs.be/nl/heren/schoenen/sandalen-en-slippers/'
+        },
+        dames: {
+            'sneakers': 'https://www.torfs.be/nl/dames/schoenen/sneakers/',
+            'enkellaarsjes': 'https://www.torfs.be/nl/dames/schoenen/enkellaarsjes/',
+            'lage-schoenen': 'https://www.torfs.be/nl/dames/schoenen/lage-schoenen/',
+            'pumps': 'https://www.torfs.be/nl/dames/schoenen/pumps/',
+            'laarzen': 'https://www.torfs.be/nl/dames/schoenen/laarzen/',
+            'boots': 'https://www.torfs.be/nl/dames/schoenen/boots/',
+            'pantoffels': 'https://www.torfs.be/nl/dames/schoenen/pantoffels/',
+            'outdoorschoenen': 'https://www.torfs.be/nl/dames/schoenen/outdoorschoenen/',
+            'sandalen': 'https://www.torfs.be/nl/dames/schoenen/sandalen/',
+            'slippers': 'https://www.torfs.be/nl/dames/schoenen/slippers/'
+        }
     };
 
-    const categoryUrl = CATEGORY_URLS[category];
+    const categoryUrl = CATEGORY_URLS[gender][category];
+    console.log('Category URL:', categoryUrl);
 
     // Ensure the category URL exists
     if (!categoryUrl) {
