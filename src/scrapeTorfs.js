@@ -6,7 +6,7 @@ const path = require('path');
 const CATEGORY_URL = 'https://www.torfs.be/nl/heren/schoenen/boots/';
 
 (async () => {
-    const browser = await puppeteer.launch({ headless: false }); // Set to false for debugging
+    const browser = await puppeteer.launch({ headless: true }); // Set to false for debugging
     const page = await browser.newPage();
 
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36');

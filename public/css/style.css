@@ -18,6 +18,10 @@ body {
     margin-bottom: 50px;
 }
 
+#scrape-button{
+    margin-bottom: 20px;
+}
+
 /* Flexbox container styling */
 #product-grid {
     display: flex;
