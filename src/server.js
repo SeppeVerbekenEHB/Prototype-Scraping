@@ -16,18 +16,43 @@ app.get('/', (req, res) => {
 
 // Route to trigger scraping
 app.get('/scrape', (req, res) => {
+
+    // Get the selected category from query params
+    const category = req.query.category || 'sneakers'; // Default to 'sneakers' if no category is provided
+    console.log(`Scraping category: ${category}`);
+
+    // Modify the URL based on the selected category
+    const CATEGORY_URLS = {
+        'sneakers': 'https://www.torfs.be/nl/heren/schoenen/sneakers/',
+        'geklede-schoenen': 'https://www.torfs.be/nl/heren/schoenen/geklede-schoenen/',
+        'lage-schoenen': 'https://www.torfs.be/nl/heren/schoenen/lage-schoenen/',
+        'hoge-schoenen': 'https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/',
+        'boots': 'https://www.torfs.be/nl/heren/schoenen/boots/',
+        'pantoffels': 'https://www.torfs.be/nl/heren/schoenen/pantoffels/',
+        'outdoorschoenen': 'https://www.torfs.be/nl/heren/schoenen/outdoorschoenen/',
+        'sandalen-en-slippers': 'https://www.torfs.be/nl/heren/schoenen/sandalen-en-slippers/'
+    };
+
+    const categoryUrl = CATEGORY_URLS[category];
+
+    // Ensure the category URL exists
+    if (!categoryUrl) {
+        return res.status(400).json({ message: 'Invalid category selected' });
+    }
+
+
     const scrapeScriptPath = path.resolve(__dirname, 'scrapeTorfs.js');
-    
+
     exec(`node ${scrapeScriptPath}`, (error, stdout, stderr) => {
         if (error) {
             console.error(`Error executing scrape: ${error.message}`);
             return res.status(500).json({ message: 'Scraping failed', error: error.message });
         }
         console.log('Scraping completed successfully');
-        
+
         // Correct path for JSON data file after scraping, within the 'output' folder
         const dataPath = path.resolve(__dirname, '../output', 'torfs_data.json');
-        
+
         // Confirm the file exists before reading
         if (!fs.existsSync(dataPath)) {
             console.error('File does not exist:', dataPath);
@@ -40,7 +65,7 @@ app.get('/scrape', (req, res) => {
                 console.error('Error reading data:', err);
                 return res.status(500).json({ message: 'Failed to load data' });
             }
-            
+
             try {
                 const products = JSON.parse(data); // Parse JSON data
                 res.json(products); // Send parsed JSON response

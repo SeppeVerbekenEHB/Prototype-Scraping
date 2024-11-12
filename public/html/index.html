@@ -13,7 +13,19 @@
 
     <div class="container">
         <h1 class="title">Boot Collection</h1>
-        <button id="scrape-button">Get Latest Products</button>
+        <div class="controls">
+            <select id="category-dropdown">
+                <option value="sneakers">Sneakers</option>
+                <option value="geklede-schoenen">Geklede Schoenen</option>
+                <option value="lage-schoenen">Lage Schoenen</option>
+                <option value="hoge-schoenen">Hoge Schoenen</option>
+                <option value="boots">Boots</option>
+                <option value="pantoffels">Pantoffels</option>
+                <option value="outdoorschoenen">Outdoorschoenen</option>
+                <option value="sandalen-en-slippers">Sandalen en Slippers</option>
+            </select>
+            <button id="scrape-button">Get Latest Products</button>
+        </div>
         <div id="product-grid">
             <!-- Product cards will be dynamically inserted here -->
         </div>

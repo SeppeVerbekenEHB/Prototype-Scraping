@@ -3,10 +3,10 @@ const fs = require('fs');
 const path = require('path');
 
 // Define the URL of the category page that needs to be scraped
-const CATEGORY_URL = 'https://www.torfs.be/nl/heren/schoenen/boots/';
+const CATEGORY_URL = process.argv[2] || 'https://www.torfs.be/nl/heren/schoenen/sneakers/';
 
 (async () => {
-    const browser = await puppeteer.launch({ headless: true }); // Set to false for debugging
+    const browser = await puppeteer.launch({ headless: false }); // Set to false for debugging
     const page = await browser.newPage();
 
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36');
@@ -53,7 +53,7 @@ const CATEGORY_URL = 'https://www.torfs.be/nl/heren/schoenen/boots/';
                 const name = nameElement ? nameElement.innerText.trim() : 'Name not found';
 
                 const priceElement = product.querySelector('.price__sales.false .value');
-                const price = priceElement ? priceElement.getAttribute('content').trim() : 'Price not found';
+                const price = product.querySelector('.price__sales.false .value')?.getAttribute('content').trim() || product.querySelector('.price__sales.discounted .value')?.getAttribute('content').trim() || 'Price not found';
 
                 const linkElement = product.querySelector('.pdp-link.brand a');
                 const relativeLink = linkElement ? linkElement.getAttribute('href') : null;

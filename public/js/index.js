@@ -1,30 +1,18 @@
 document.addEventListener('DOMContentLoaded', () => {
     const scrapeButton = document.getElementById('scrape-button');
+    const categoryDropdown = document.getElementById('category-dropdown');
     const productGrid = document.getElementById('product-grid');
-
-    // Fetch products immediately when the page loads
-    fetchProducts();
-
-    // Fetch products from the server
-    async function fetchProducts() {
-        try {
-            const response = await fetch('http://localhost:3000/scrape');
-            const products = await response.json();
-            console.log('Products:', products);
-            displayProducts(products);
-        } catch (error) {
-            console.error('Error fetching products:', error);
-            alert('Failed to fetch products.');
-        }
-    }
 
     // Load products on button click
     scrapeButton.addEventListener('click', async () => {
         scrapeButton.disabled = true;
         scrapeButton.textContent = 'Scraping...';
 
+        // Get selected category from dropdown
+        const selectedCategory = categoryDropdown.value;
+
         try {
-            const response = await fetch('http://localhost:3000/scrape');
+            const response = await fetch(`http://localhost:3000/scrape?category=${selectedCategory}`);
             const products = await response.json();
             console.log('Products:', products);
             displayProducts(products);
@@ -47,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
             productCard.innerHTML = `
                 <img src="${product.image}" alt="${product.name}" class="product-image">
                 <div class="product-name">${product.name}</div>
-                <div class="product-price">${product.price}</div>
+                <div class="product-price">€ ${product.price}</div>
                 <div class="product-link"><a href="${product.link}" target="_blank">View Product</a></div>
             `;
 
