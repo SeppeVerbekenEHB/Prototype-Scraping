@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 
-// Define the URL of the category page you want to scrape
+// Define the URL of the category page that needs to be scraped
 const CATEGORY_URL = 'https://www.torfs.be/nl/heren/schoenen/boots/';
 
 (async () => {
