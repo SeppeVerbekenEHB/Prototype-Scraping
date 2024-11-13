@@ -44,13 +44,13 @@ The server will start on `http:localhost:3000`.
 ## Project Structure
 
 - `public/`: Contains the HTML, CSS and JavaScript files for the frontend.
-  - `html`: All HTML files.
+  - `html/`: All HTML files.
     - `index.html`: Main frontend interface.
-  - `css`: All CSS files.
+  - `css/`: All CSS files.
     - `Style.css`: Main stylesheet.
-  - `js`: All Javascript files.
+  - `js/`: All Javascript files.
     - `index.js`: Main Javascript for the frontend interface.
-- `src`: Other Javascript files
+- `src/`: Other Javascript files
   - `server.js`: Sets up the express server and manages scrape requests.
   - `scrapeTorfs.js`: Puppeteer script to perform scraping on Torfs.
 
