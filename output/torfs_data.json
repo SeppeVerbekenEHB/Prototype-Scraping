@@ -1,536 +1,818 @@
 [
   {
-    "name": "SKECHERS",
-    "price": "85.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/skechers-garlan-deno-bruine-bottines/346371.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw18848e3d/hi-res/pdp/346/346371/346371-1.jpg?sw=350"
-  },
-  {
-    "name": "SKECHERS",
-    "price": "89.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/skechers-parson-ederic-cognac-bottines/345203.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwc5b0f1ad/hi-res/pdp/345/345203/345203-1.jpg?sw=350"
-  },
-  {
-    "name": "BULLBOXER",
-    "price": "105.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-cognac-hoge-schoenen/328897.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw85fae26c/hi-res/pdp/328/328897/328897-1.jpg?sw=350"
-  },
-  {
     "name": "RIEKER",
     "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-tex-zwarte-hoge-schoenen/347453.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5b8d68ad/hi-res/pdp/347/347453/347453-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-zwarte-chelsea-boots/331760.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwf6e8a357/hi-res/pdp/331/331760/331760-1.jpg?sw=350"
   },
   {
-    "name": "AUSTRALIAN",
-    "price": "170.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/australian-conley-cognac-boots/346962.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwb2994fd8/hi-res/pdp/346/346962/346962-1.jpg?sw=350"
-  },
-  {
-    "name": "SKECHERS",
-    "price": "110.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/skechers-segment-2.0-relaxed-fit-cognac-veterschoenen/327844.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwb1a0657c/hi-res/pdp/327/327844/327844-1.jpg?sw=350"
-  },
-  {
-    "name": "BULLBOXER",
-    "price": "105.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-zwarte-hoge-schoenen/328901.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw1b52e0f0/hi-res/pdp/328/328901/328901-1.jpg?sw=350"
+    "name": "AMBIORIX",
+    "price": "280.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/ambiorix-nomera-sup-cognac-chelsea-boots/349116.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5e4f6a91/hi-res/pdp/349/349116/349116-1.jpg?sw=350"
   },
   {
     "name": "MUSTANG",
-    "price": "89.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/mustang-bruine-bottines/347495.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwf909dfc4/hi-res/pdp/347/347495/347495-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "112.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-solar-wave-kaki-hoge-schoenen/313464.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw1b3ce4c8/hi-res/pdp/313/313464/313464-1.jpg?sw=350"
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-cognac-veterboots/347496.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd69578f3/hi-res/pdp/347/347496/347496-1.jpg?sw=350"
   },
   {
     "name": "RIEKER",
     "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-bruine-bottines/352869.html?cgid=Heren-Schoenen-Hogeschoenen",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-bruine-bottines/352869.html?cgid=Heren-Schoenen-Boots",
     "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dweb638c14/hi-res/pdp/352/352869/352869-1.jpg?sw=350"
   },
   {
-    "name": "RIEKER",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-cognac-hoge-schoenen/347451.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw37455544/hi-res/pdp/347/347451/347451-1.jpg?sw=350"
-  },
-  {
     "name": "SKECHERS",
-    "price": "115.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/skechers-respected-bosswel-relaxed-fit-cognac-wandelschoenen/345204.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa385eedf/hi-res/pdp/345/345204/345204-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "120.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-seneca-bay-mid-naturel-bottines/344946.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5ba6ebc7/hi-res/pdp/344/344946/344946-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "155.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-maple-grove-mid-grijze-bottines/344944.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3d665b11/hi-res/pdp/344/344944/344944-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "160.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-hudson-road-mid-chukka-bruine-bottines/344941.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw56ceedb7/hi-res/pdp/344/344941/344941-1.jpg?sw=350"
-  },
-  {
-    "name": "RIEKER",
     "price": "110.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-tex-cognac-bottines/347480.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw1b8c053d/hi-res/pdp/347/347480/347480-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/skechers-cambert-bruine-bottines/345205.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwe1926528/hi-res/pdp/345/345205/345205-1.jpg?sw=350"
   },
   {
-    "name": "TIMBERLAND",
-    "price": "150.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-maple-grove-leather-chukka-blauwe-bottines/344943.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwe5301683/hi-res/pdp/344/344943/344943-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "160.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-winsor-park-mid-grijze-bottines/344968.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw24293a96/hi-res/pdp/344/344968/344968-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "150.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-maple-grove-zwarte-bottines/328671.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw86c8a9a1/hi-res/pdp/328/328671/328671-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "160.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-hudson-road-mid-chukka-blauwe-bottines/348537.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw06afd75c/hi-res/pdp/348/348537/348537-1.jpg?sw=350"
-  },
-  {
-    "name": "LA STRADA",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/la-strada-cognac-bottines/352766.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw2b199f4a/hi-res/pdp/352/352766/352766-1.jpg?sw=350"
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-kaki-veterboots/345479.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw577dbd63/hi-res/pdp/345/345479/345479-1.jpg?sw=350"
   },
   {
     "name": "RIEKER",
     "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-bruine-hoge-schoenen/347446.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dweaf153f4/hi-res/pdp/347/347446/347446-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-cognac-boots/353205.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwe0a1df71/hi-res/pdp/353/353205/353205-1.jpg?sw=350"
   },
   {
-    "name": "GEOX",
-    "price": "120.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/geox-andalo-zwarte-boots/344330.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwad18d9f5/hi-res/pdp/344/344330/344330-1.jpg?sw=350"
-  },
-  {
-    "name": "RIEKER",
-    "price": "89.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-bruine-hoge-schoenen/344392.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw89e8ae76/hi-res/pdp/344/344392/344329-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "170.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-larchmont-ii-chukka-bruine-bottines/344964.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw491ea5ef/hi-res/pdp/344/344964/344964-1.jpg?sw=350"
-  },
-  {
-    "name": "MEPHISTO",
-    "price": "250.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/mephisto-berta-nevada-bruine-hoge-schoenen/345997.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw395c845a/hi-res/pdp/345/345997/345997-1.jpg?sw=350"
-  },
-  {
-    "name": "GEOX",
-    "price": "160.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/geox-aerantis-cognac-veterschoenen/344347.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw74730dc3/hi-res/pdp/344/344347/344347-1.jpg?sw=350"
+    "name": "DR. MARTENS",
+    "price": "200.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-1460-beige-veterboots/334989.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3a38744c/hi-res/pdp/334/334989/334989-1.jpg?sw=350"
   },
   {
     "name": "BUGATTI",
-    "price": "89.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bugatti-bruine-hoge-schoenen/347000.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw7a60ab65/hi-res/pdp/347/347000/347000-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "155.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-winsor-park-mid-cognac-bottines/344969.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa6e57e68/hi-res/pdp/344/344969/344969-1.jpg?sw=350"
-  },
-  {
-    "name": "VIA BORGO",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/via-borgo-bruine-hoge-schoenen/348925.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwec2478c3/hi-res/pdp/348/348925/348925-1.jpg?sw=350"
-  },
-  {
-    "name": "RIEKER",
-    "price": "89.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-taupe-hoge-schoenen/344391.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw332a2d78/hi-res/pdp/344/344391/344391-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "155.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-maple-grove-leather-chukka-cognac-bottines/344945.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwadf7a735/hi-res/pdp/344/344945/344945-1.jpg?sw=350"
-  },
-  {
-    "name": "JACK & JONES",
-    "price": "89.99",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/jack-jones-toronto-bruine-bottines/358066.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw12101e08/hi-res/pdp/358/358066/358066-1.jpg?sw=350"
-  },
-  {
-    "name": "AUSTRALIAN",
-    "price": "150.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/australian-bezos-cognac-boots/346958.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw617dde75/hi-res/pdp/346/346958/346958-1.jpg?sw=350"
-  },
-  {
-    "name": "RIEKER",
     "price": "110.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-r-evolution-zwarte-hoge-schoenen/349190.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw70fd49ee/hi-res/pdp/349/349190/349190-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/bugatti-cognac-chelsea-boots/346989.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwcf67586e/hi-res/pdp/346/346989/346989-1.jpg?sw=350"
   },
   {
-    "name": "JACK & JONES",
-    "price": "89.99",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/jack-jones-toronto-grijze-bottines/358067.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwacffa60b/hi-res/pdp/358/358067/358067-1.jpg?sw=350"
-  },
-  {
-    "name": "POELMAN",
-    "price": "120.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/poelman-ampoe-bruine-hoge-schoenen/358645.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw34d4b4f0/hi-res/pdp/358/358645/358645-1.jpg?sw=350"
-  },
-  {
-    "name": "GEOX",
-    "price": "130.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/geox-terence-bruine-geklede-hoge-veterschoenen/329727.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw7109d87d/hi-res/pdp/329/329727/329727-1.jpg?sw=350"
-  },
-  {
-    "name": "MEPHISTO",
-    "price": "230.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/mephisto-orton-nevada-bruine-bottines/345996.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw18a8b38d/hi-res/pdp/345/345996/345996-1.jpg?sw=350"
-  },
-  {
-    "name": "CLARKS",
-    "price": "120.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/clarks-streethill-mid-cognac-bottines/346660.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw6053177c/hi-res/pdp/346/346660/346660-1.jpg?sw=350"
-  },
-  {
-    "name": "VIA BORGO",
-    "price": "105.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/via-borgo-cognac-bottines/353887.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwf8972ed3/hi-res/pdp/353/353887/353887-1.jpg?sw=350"
-  },
-  {
-    "name": "JACK & JONES",
-    "price": "99.99",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/jack-jones-tubar-leather-bruine-boots/345843.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw05e1d421/hi-res/pdp/345/345843/345843-1.jpg?sw=350"
-  },
-  {
-    "name": "GEOX",
-    "price": "130.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/geox-andalo-bruine-boots/344331.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw56e611af/hi-res/pdp/344/344331/344331-1.jpg?sw=350"
-  },
-  {
-    "name": "CAFE MODA",
-    "price": "75.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/cafe-moda-zwarte-hoge-schoenen/330165.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw14466ae3/hi-res/pdp/330/330165/330165-1.jpg?sw=350"
-  },
-  {
-    "name": "RIEKER",
-    "price": "115.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-blauwe-hoge-schoenen/353195.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw80a2454f/hi-res/pdp/353/353195/343195-1.jpg?sw=350"
-  },
-  {
-    "name": "VIA BORGO",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/via-borgo-bruine-hoge-schoenen/348924.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw91d5019f/hi-res/pdp/348/348924/348924-1.jpg?sw=350"
-  },
-  {
-    "name": "GEOX",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/geox-uomo-claudio-bruine-hoge-geklede-veterschoenen/328346.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3da87e41/hi-res/pdp/328/328346/328346-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "155.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-maple-grove-cognac-bottines/328673.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwc75cda52/hi-res/pdp/328/328673/328673-1.jpg?sw=350"
-  },
-  {
-    "name": "BERKELMANS",
-    "price": "140.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/berkelmans-alastaro-cognac-geklede-veterschoenen/331387.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwedd59f8e/hi-res/pdp/331/331387/331387-1.jpg?sw=350"
-  },
-  {
-    "name": "AUSTRALIAN",
-    "price": "140.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/australian-middelburg-cognac-boots/346959.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw9c5e16cc/hi-res/pdp/346/346959/346959-1.jpg?sw=350"
-  },
-  {
-    "name": "RIEKER",
-    "price": "110.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-waterproof-hoge-bruine-schoenen/331774.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5d782e48/hi-res/pdp/331/331774/331774-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "145.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-killington-chukka-cognac-bottines/330918.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw930d17d2/hi-res/pdp/330/330918/330918-1.jpg?sw=350"
-  },
-  {
-    "name": "PIKOLINOS",
-    "price": "130.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/pikolinis-berna-zwarte-hoge-schoenen/346304.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw75f5c0d3/hi-res/pdp/346/346304/346304-1.jpg?sw=350"
-  },
-  {
-    "name": "TIMBERLAND",
-    "price": "160.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-cross-mark-pt-chukka-kaki-bottines/328649.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd886a461/hi-res/pdp/328/328649/328649-1.jpg?sw=350"
-  },
-  {
-    "name": "AUSTRALIAN",
+    "name": "DR. MARTENS",
     "price": "170.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/australian-conley-bruine-boots/346961.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw8b5c3b91/hi-res/pdp/346/346961/346961-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-thurston-chukka-bruine-boots/343763.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw04333a6c/hi-res/pdp/343/343763/343763-1.jpg?sw=350"
   },
   {
-    "name": "VIA BORGO",
-    "price": "120.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/via-borgo-bruine-hoge-schoenen/330339.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa2ba9ee7/hi-res/pdp/330/330339/330339-1.jpg?sw=350"
+    "name": "VAGABOND SHOEMAKERS",
+    "price": "160.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/vagabond-shoemakers-alex-bruine-chelsea-boots/347777.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw4d9a60ea/hi-res/pdp/347/347777/347777-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "99.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-zwarte-bottines/347450.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa88f6a81/hi-res/pdp/347/347450/347450-1.jpg?sw=350"
+  },
+  {
+    "name": "LA STRADA",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/la-strada-cognac-bottines/352765.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwbac8048a/hi-res/pdp/352/352765/352765-1.jpg?sw=350"
   },
   {
     "name": "TIMBERLAND",
-    "price": "160.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/timberland-cross-mark-pt-chukka-blauwe-bottines/330917.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5f9f4a57/hi-res/pdp/330/330917/330917-1.jpg?sw=350"
-  },
-  {
-    "name": "GEOX",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/geox-optek-u-elver-zwarte-hoge-schoenen/328362.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa700dcf7/hi-res/pdp/328/328362/328362-1.jpg?sw=350"
-  },
-  {
-    "name": "SKECHERS",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/skechers-garza-fontaine-bruine-hoge-schoenen/328121.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw69011108/hi-res/pdp/328/328121/328121-1.jpg?sw=350"
-  },
-  {
-    "name": "BERKELMANS",
-    "price": "150.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/berkelmans-tanaka-taupe-hoge-schoenen/347811.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw153d420b/hi-res/pdp/347/347811/347811-1.jpg?sw=350"
-  },
-  {
-    "name": "PIKOLINOS",
-    "price": "130.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/pikolinis-berna-cognac-hoge-schoenen/346305.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw41aad681/hi-res/pdp/346/346305/346305-1.jpg?sw=350"
-  },
-  {
-    "name": "CLARKS",
-    "price": "140.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/clarks-torhill-zwarte-hoge-schoenen/330667.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwfacfce65/hi-res/pdp/330/330667/330667-1.jpg?sw=350"
-  },
-  {
-    "name": "PIKOLINOS",
-    "price": "130.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/pikolinis-berna-bruine-hoge-schoenen/346321.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw1828aff2/hi-res/pdp/346/346321/346321-1.jpg?sw=350"
-  },
-  {
-    "name": "CLARKS",
-    "price": "140.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/clarks-torhill-bruine-hoge-schoenen/330668.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwebe48273/hi-res/pdp/330/330668/330668-1.jpg?sw=350"
-  },
-  {
-    "name": "CLARKS",
-    "price": "140.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/clarks-desert-bruine-hoge-schoenen/330665.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwf4e53ea1/hi-res/pdp/330/330665/330665-1.jpg?sw=350"
-  },
-  {
-    "name": "MEPHISTO",
-    "price": "240.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/mephisto-boran-bruine-hoge-schoenen/332462.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw9b46cfb6/hi-res/pdp/332/332462/332462-1.jpg?sw=350"
-  },
-  {
-    "name": "CLARKS",
-    "price": "140.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/clarks-rossdale-mid-bruine-bottines/329538.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwb4168b5b/hi-res/pdp/329/329538/329538-1.jpg?sw=350"
-  },
-  {
-    "name": "PIKOLINOS",
-    "price": "140.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/pikolinos-avila-bruine-hoge-schoenen/329628.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwedd35018/hi-res/pdp/329/329628/329628-1.jpg?sw=350"
-  },
-  {
-    "name": "BJÖRN BORG",
-    "price": "89.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bjorn-borg-zwarte-veterbottines/328474.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw1508a782/hi-res/pdp/328/328474/328474-1.jpg?sw=350"
+    "price": "230.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-inch-premium-cognac-veterboots/344959.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw99b48cbd/hi-res/pdp/344/344959/344959-1.jpg?sw=350"
   },
   {
     "name": "RIEKER",
     "price": "95.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-cognac-waterproof-hoge-schoenen/331770.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwcb7296ed/hi-res/pdp/331/331770/331770-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-cognac-chelsea-boots/344398.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw261d3be0/hi-res/pdp/344/344398/344398-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "99.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-grijze-bottines/347449.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa8d8aa7f/hi-res/pdp/347/347449/347449-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-killington-trekker-chukka-cognac-bottines/344942.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw06ac2a27/hi-res/pdp/344/344942/344942-1.jpg?sw=350"
   },
   {
     "name": "MUSTANG",
-    "price": "75.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/mustang-bruine-hoge-schoenen/329590.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw17527b82/hi-res/pdp/329/329590/329590-1.jpg?sw=350"
-  },
-  {
-    "name": "PIKOLINOS",
-    "price": "130.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/pikolinos-berna-zwarte-hoge-schoenen/329953.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw36659ff3/hi-res/pdp/329/329953/329953-1.jpg?sw=350"
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-cognac-veterboots/345480.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw2da99a52/hi-res/pdp/345/345480/345480-1.jpg?sw=350"
   },
   {
     "name": "RIEKER",
     "price": "110.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/rieker-cognac-hoge-schoenen/331755.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwed2b0b18/hi-res/pdp/331/331755/331755-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-waterproof-cognac-veterboots/331763.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw12cc3693/hi-res/pdp/331/331763/331763-1.jpg?sw=350"
   },
   {
-    "name": "PIKOLINOS",
-    "price": "155.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/pikolinos-linares-cognac-hoge-schoenen/329636.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw4b1bdf35/hi-res/pdp/329/329636/329636-1.jpg?sw=350"
+    "name": "DR. MARTENS",
+    "price": "160.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-combs-leather-bruine-boots/355191.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwb5b59cfe/hi-res/pdp/355/355191/355191-1.jpg?sw=350"
   },
   {
-    "name": "BULLBOXER",
+    "name": "VAGABOND SHOEMAKERS",
+    "price": "160.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/vagabond-shoemakers-alex-zwarte-chelsea-boots/347776.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd11600cd/hi-res/pdp/347/347776/347776-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
     "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-cognac-hoge-schoenen/328904.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa588d1c5/hi-res/pdp/328/328904/328904-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-bruine-chelsea-boots/347447.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw2ae20792/hi-res/pdp/347/347447/347447-1.jpg?sw=350"
   },
   {
     "name": "MUSTANG",
     "price": "79.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/mustang-taupe-bottines/316297.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw73841b4f/hi-res/pdp/316/316297/316297-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-cognac-bottines/345477.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw9acae63f/hi-res/pdp/345/345477/345477-1.jpg?sw=350"
   },
   {
-    "name": "BULLBOXER",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-cognac-hoge-schoenen/328896.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwf5955909/hi-res/pdp/328/328896/328896-1.jpg?sw=350"
+    "name": "TIMBERLAND",
+    "price": "220.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-6-inch-premium-gele-bottines/328644.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw70a119f2/hi-res/pdp/328/328644/328644-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "220.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-6-inch-premium-kaki-veterboots/344958.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3ae65b97/hi-res/pdp/344/344958/344958-1.jpg?sw=350"
+  },
+  {
+    "name": "UGG",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/ugg-biltmore-kaki-chelsea-boots/329385.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwad695429/hi-res/pdp/329/329385/329385-1.jpg?sw=350"
+  },
+  {
+    "name": "UGG",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/ugg-neumel-moc-zwarte-veterboots/341398.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw554adb03/hi-res/pdp/341/341398/341398-1.jpg?sw=350"
+  },
+  {
+    "name": "UGG",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/ugg-neumel-moc-bruine-veterboots/341400.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd983cc19/hi-res/pdp/341/341400/341400-1.jpg?sw=350"
+  },
+  {
+    "name": "DR. MARTENS",
+    "price": "180.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-embury-leather-zwarte-chelsea-boots/343740.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwce6ade1a/hi-res/pdp/343/343740/343740-1.jpg?sw=350"
+  },
+  {
+    "name": "HEYDUDE",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/heydude-tahoe-nylon-kaki-boots/348807.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw76b1a910/hi-res/pdp/348/348807/348807-1.jpg?sw=350"
+  },
+  {
+    "name": "CATERPILLAR",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/caterpillar-colorado-2.0-bruine-veterboots/346383.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw850881f8/hi-res/pdp/346/346383/346383-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "180.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-britton-road-mid-chukka-bruine-boots/344954.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwc0202f9d/hi-res/pdp/344/344954/344954-1.jpg?sw=350"
+  },
+  {
+    "name": "DR. MARTENS",
+    "price": "200.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-1460-zwarte-boots/343744.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw97638f9b/hi-res/pdp/343/343744/343744-1.jpg?sw=350"
+  },
+  {
+    "name": "PIKOLINOS",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/pikolinos-york-cognac-bottines/329629.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa25cf050/hi-res/pdp/329/329629/329629-1.jpg?sw=350"
+  },
+  {
+    "name": "BERKELMANS",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/berkelmans-paletti-taupe-chelsea-boots/347812.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw47c21f50/hi-res/pdp/347/347812/347812-1.jpg?sw=350"
+  },
+  {
+    "name": "BERKELMANS",
+    "price": "160.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/berkelmans-hita-bruine-chelsea-boots/347813.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw9ba5d26f/hi-res/pdp/347/347813/347813-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-britton-road-chelsea-cognac-boots/344965.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw8aa881d0/hi-res/pdp/344/344965/344965-1.jpg?sw=350"
+  },
+  {
+    "name": "CATERPILLAR",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/caterpillar-colorado-2.0-ruine-caterpillar-colorado-2.0-bruine-veterboots/346389.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwfc8b300c/hi-res/pdp/346/346389/346389-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-field-trekker-mid-olijfgroene-bottines/344961.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3285f595/hi-res/pdp/344/344961/344961-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-bruine-bottines/345481.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw8cf335c1/hi-res/pdp/345/345481/345481-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-tex-taupe-bottines/347448.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwea94d3e6/hi-res/pdp/347/347448/347448-1.jpg?sw=350"
   },
   {
     "name": "LUMBERJACK",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/lumberjack-scott-kaki-hoge-schoenen/329972.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dweb76f479/hi-res/pdp/329/329972/329972-1.jpg?sw=350"
-  },
-  {
-    "name": "BULLBOXER",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-blauwe-hoge-schoenen/314048.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw24619adf/hi-res/pdp/314/314048/314048-1.jpg?sw=350"
-  },
-  {
-    "name": "BULLBOXER",
-    "price": "79.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-cognac-hoge-schoenen/328658.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw872332e9/hi-res/pdp/328/328658/328658-1.jpg?sw=350"
-  },
-  {
-    "name": "BULLBOXER",
-    "price": "99.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-cognac-veterschoenen/328913.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwca149753/hi-res/pdp/328/328913/328913-1.jpg?sw=350"
-  },
-  {
-    "name": "BULLBOXER",
     "price": "110.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-cognac-hoge-schoenen/328884.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw8b7040d8/hi-res/pdp/328/328884/328884-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/lumberjack-river-bruine-bottines/329971.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw99e2adc2/hi-res/pdp/329/329971/329971-1.jpg?sw=350"
   },
   {
-    "name": "BULLBOXER",
+    "name": "SKECHERS",
+    "price": "85.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/skechers-garlan-deno-cognac-bottines/345199.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw8af3ac70/hi-res/pdp/345/345199/345199-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "220.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-inch-premium-gele-veterboots/345038.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw097e6a02/hi-res/pdp/345/345038/345038-1.jpg?sw=350"
+  },
+  {
+    "name": "VAGABOND SHOEMAKERS",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/vagabond-shoemakers-andrew-zwarte-chelsea-boots/345229.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3c8913dc/hi-res/pdp/345/345229/345229-1.jpg?sw=350"
+  },
+  {
+    "name": "CAMEL ACTIVE",
+    "price": "120.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/camel-active-bruine-chelsea-boots/348884.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw45b3673f/hi-res/pdp/348/348884/348884-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
     "price": "89.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-grijze-hoge-schoenen/313084.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwc4f21439/hi-res/pdp/313/313084/313084-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-bruine-chelsea-boots/331767.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwe5471b3f/hi-res/pdp/331/331767/331767-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "155.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-sprint-trekker-mid-bruine-bottines/328639.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd85e51bf/hi-res/pdp/328/328639/328639-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "180.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-britton-road-mid-chukka-cognac-boots/344966.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwfa4926e1/hi-res/pdp/344/344966/344966-1.jpg?sw=350"
+  },
+  {
+    "name": "TAMARIS",
+    "price": "130.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/tamaris-cognac-chelsea-boots/345473.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw82e78178/hi-res/pdp/345/345473/345473-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "89.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-zwarte-chelsea-boots/347481.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwae34ad21/hi-res/pdp/347/347481/347481-1.jpg?sw=350"
+  },
+  {
+    "name": "VIA BORGO",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/via-borgo-bruine-chelsea-boots/332445.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw06dbd7b8/hi-res/pdp/332/332445/332445-1.jpg?sw=350"
+  },
+  {
+    "name": "AMBIORIX",
+    "price": "250.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/ambiorix-frascati-bruine-chelsea-boots/331370.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw755b624b/hi-res/pdp/331/331370/331370-1.jpg?sw=350"
+  },
+  {
+    "name": "VAGABOND SHOEMAKERS",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/vagabond-shoemakers-andrew-bruine-chelsea-boots/345230.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwb60d4b0a/hi-res/pdp/345/345230/345230-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "115.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-tex-cognac-veterboots/347445.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw0e0f3529/hi-res/pdp/347/347445/347445-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-zwarte-bottinen/353206.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3f6e532f/hi-res/pdp/353/353206/353206-1.jpg?sw=350"
+  },
+  {
+    "name": "HEYDUDE",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/heydude-tahoe-classic-zwarte-boots/348808.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwbd2270e1/hi-res/pdp/348/348808/348808-1.jpg?sw=350"
+  },
+  {
+    "name": "GUESS",
+    "price": "165.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/guess-sidney-beatles-zwarte-chelsea-boots/346802.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw4401ceb0/hi-res/pdp/346/346802/346802-1.jpg?sw=350"
+  },
+  {
+    "name": "HEYDUDE",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/heydude-tahoe-classic-cognac-boots/348809.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw2a024d21/hi-res/pdp/348/348809/348809-1.jpg?sw=350"
+  },
+  {
+    "name": "PIKOLINOS",
+    "price": "145.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/pikolinis-york-bruine-chelsea-boots/346325.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3655cbdb/hi-res/pdp/346/346325/346325-1.jpg?sw=350"
+  },
+  {
+    "name": "GUESS",
+    "price": "165.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/guess-sidney-beatles-bruine-chelsea-boots/346801.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5e867ced/hi-res/pdp/346/346801/346801-1.jpg?sw=350"
   },
   {
     "name": "BULLBOXER",
-    "price": "110.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-kaki-hoge-veterschoenen/323413.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwe8b9b39e/hi-res/pdp/323/323413/323413-1.jpg?sw=350"
+    "price": "99.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/bullboxer-taupe-chelsea-boots/332305.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwade98d4a/hi-res/pdp/332/332305/332305-1.jpg?sw=350"
   },
   {
-    "name": "G-STAR",
-    "price": "130.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/g-star-attac-kaki-hoge-schoenen/328477.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw30c9fc6c/hi-res/pdp/328/328477/328477-1.jpg?sw=350"
+    "name": "RIEKER",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-taupe-bottinen/353204.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw8d8b89bf/hi-res/pdp/353/353204/353204-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-tex-bruine-bottines/347454.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwc4d6a7e0/hi-res/pdp/347/347454/347454-1.jpg?sw=350"
+  },
+  {
+    "name": "DR. MARTENS",
+    "price": "200.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-1460-pascal-cognac-boots/343743.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwce07ae3a/hi-res/pdp/343/343743/343743-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "99.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-cognac-boots/352870.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5085e6df/hi-res/pdp/352/352870/352870-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-bruine-bottines/345476.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwe5641f90/hi-res/pdp/345/345476/345476-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-sprint-trekker-mid-zwarte-bottines/328636.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw722b323f/hi-res/pdp/328/328636/328636-1.jpg?sw=350"
+  },
+  {
+    "name": "CLARKS",
+    "price": "160.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/clarks-clarkdale-easy-cognac-chelsea-boots/346668.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa4e4564c/hi-res/pdp/346/346668/346668-1.jpg?sw=350"
+  },
+  {
+    "name": "SCAPA",
+    "price": "115.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/scapa-zwarte-chelsea-boots/332566.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw9beb3f3e/hi-res/pdp/332/332566/332566-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-grijze-chelsea-boots/345483.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw96cfa88b/hi-res/pdp/345/345483/345483-1.jpg?sw=350"
+  },
+  {
+    "name": "PIKOLINOS",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/pikolinis-york-cognac-veterboots/346328.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw8c634ad6/hi-res/pdp/346/346328/346328-1.jpg?sw=350"
+  },
+  {
+    "name": "DR. MARTENS",
+    "price": "180.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-embury-leather-bruine-chelsea-boots/343739.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwfa9f50d2/hi-res/pdp/343/343739/343739-1.jpg?sw=350"
+  },
+  {
+    "name": "TOMMY HILFIGER",
+    "price": "160.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/tommy-hilfiger-core-blauwe-chelsea-boots/329359.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwfa912be6/hi-res/pdp/329/329359/329359-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-larchmont-ii-chelsea-cognac-bottines/328648.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw04e3ecf3/hi-res/pdp/328/328648/328648-1.jpg?sw=350"
+  },
+  {
+    "name": "DR. MARTENS",
+    "price": "200.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-2976-beige-chelsea-boots/334990.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwfd04986f/hi-res/pdp/334/334990/334990-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-bruine-veterboots/345478.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw431602a8/hi-res/pdp/345/345478/345478-1.jpg?sw=350"
+  },
+  {
+    "name": "GEOX",
+    "price": "120.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/geox-andalo-bruine-chelsea-boots/344324.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw857fb9ed/hi-res/pdp/344/344324/344324-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-sprint-trekker-mid-blauwe-bottines/328634.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwa4bc51e6/hi-res/pdp/328/328634/328634-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-sprint-trekker-mid-bruine-bottines/328637.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd3354bb7/hi-res/pdp/328/328637/328637-1.jpg?sw=350"
+  },
+  {
+    "name": "SCAPA",
+    "price": "115.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/scapa-bruine-chelsea-boots/332567.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwee07d16a/hi-res/pdp/332/332567/332567-1.jpg?sw=350"
+  },
+  {
+    "name": "VIA BORGO",
+    "price": "99.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/via-borgo-halloween-taupe-chelsea-boots/341074.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwf5e700fe/hi-res/pdp/341/341074/341074-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-larchmont-ii-chukka-bruine-bottines/329043.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw9c5c6aee/hi-res/pdp/329/329043/329043-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-grijze-chelsea-boots/331792.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw0b7e3972/hi-res/pdp/331/331792/331792-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-sprint-trekker-mid-cognac-bottines/328642.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw2439aec9/hi-res/pdp/328/328642/328642-1.jpg?sw=350"
+  },
+  {
+    "name": "VAGABOND SHOEMAKERS",
+    "price": "160.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/vagabond-alex-zwarte-chelsea-boots/332160.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw42683d5a/hi-res/pdp/332/332160/332160-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "220.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-6-inch-premium-zwarte-boots/328674.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw59bdc848/hi-res/pdp/328/328674/328674-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "225.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-6-inch-premium-kaki-bottines/328646.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw30a345ef/hi-res/pdp/328/328646/328646-1.jpg?sw=350"
+  },
+  {
+    "name": "AUSTRALIAN",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/australian-yorkshire-bruine-veterboots/346960.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw035fa68f/hi-res/pdp/346/346960/346960-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-bruine-bottines/331787.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw068f943b/hi-res/pdp/331/331787/331787-1.jpg?sw=350"
+  },
+  {
+    "name": "TOMMY HILFIGER",
+    "price": "160.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/tommy-hilfiger-core-bruine-chelsea-boots/329360.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw4cf2b17e/hi-res/pdp/329/329360/329360-1.jpg?sw=350"
+  },
+  {
+    "name": "GEOX",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/geox-spherica-bruine-veterboots/329741.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw9e1c670d/hi-res/pdp/329/329741/329741-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-bruine-chelsea-boots/331794.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwe07f4b7b/hi-res/pdp/331/331794/331794-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-cognac-veterboots/331752.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3f7b31c4/hi-res/pdp/331/331752/331752-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-cognac-boots/331759.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5ab6758e/hi-res/pdp/331/331759/331759-1.jpg?sw=350"
+  },
+  {
+    "name": "AUSTRALIAN",
+    "price": "180.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/australian-rick-bruine-veterboots/329960.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwf366c948/hi-res/pdp/329/329960/329960-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-killington-trekker-cognac-bottines/328653.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw059a9bb9/hi-res/pdp/328/328653/328653-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "230.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-heritage-6-in-premium-bruine-bottines/328643.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw5fc03426/hi-res/pdp/328/328643/328643-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "89.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-bruine-bottines/331788.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwfb13d169/hi-res/pdp/331/331788/331788-1.jpg?sw=350"
   },
   {
     "name": "BULLBOXER",
+    "price": "99.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/bullboxer-taupe-chelsea-boots/331809.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwdc6647b2/hi-res/pdp/331/331809/331809-1.jpg?sw=350"
+  },
+  {
+    "name": "DR. MARTENS",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-thurston-chukka-zwarte-boots/327246.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwab8b884c/hi-res/pdp/327/327246/327246-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-cognac-veterboots/329586.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw2d821678/hi-res/pdp/329/329586/329586-1.jpg?sw=350"
+  },
+  {
+    "name": "DR. MARTENS",
+    "price": "200.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-2976-zwarte-chelsea-boots/327250.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw1082fe5e/hi-res/pdp/327/327250/327250-1.jpg?sw=350"
+  },
+  {
+    "name": "DR. MARTENS",
+    "price": "180.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/dr.-martens-combs-leather-zwarte-boots/327244.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwb126a368/hi-res/pdp/327/327244/327244-1.jpg?sw=350"
+  },
+  {
+    "name": "GEOX",
+    "price": "160.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/geox-aurelio-bruine-chelsea-boots/329739.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw2d07498f/hi-res/pdp/329/329739/329739-1.jpg?sw=350"
+  },
+  {
+    "name": "RIEKER",
     "price": "110.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/bullboxer-kaki-hoge-schoenen/313098.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw60d41aa2/hi-res/pdp/313/313098/313098-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/rieker-grijze-veterboots/331757.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwc9b228ae/hi-res/pdp/331/331757/331757-1.jpg?sw=350"
   },
   {
-    "name": "G-STAR",
-    "price": "130.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/g-star-attac-blauwe-hoge-schoenen/328476.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw6e2b4869/hi-res/pdp/328/328476/328476-1.jpg?sw=350"
+    "name": "TOMMY HILFIGER",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/tommy-hilfiger-comfort-bruine-chelsea-boots/345974.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw7bff6737/hi-res/pdp/345/345974/345974-1.jpg?sw=350"
   },
   {
-    "name": "HUB",
-    "price": "140.00",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/hub-dundee-grijze-hoge-schoenen/314730.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw01907737/hi-res/pdp/314/314730/314730-1.jpg?sw=350"
+    "name": "GEOX",
+    "price": "120.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/geox-andalo-bruine-boots/328358.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw1b3b688c/hi-res/pdp/328/328358/328358-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-grijze-veterboots/329594.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw8a339055/hi-res/pdp/329/329594/329594-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-cognac-veterboots/329588.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd753e289/hi-res/pdp/329/329588/329588-1.jpg?sw=350"
+  },
+  {
+    "name": "MUSTANG",
+    "price": "79.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/mustang-bruine-veterboots/329587.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw6174a90a/hi-res/pdp/329/329587/329587-1.jpg?sw=350"
+  },
+  {
+    "name": "JACK & JONES",
+    "price": "99.99",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/jack-jones-queensway-leather-naturel-boots/345844.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwee51ba34/hi-res/pdp/345/345844/345844-1.jpg?sw=350"
+  },
+  {
+    "name": "CATERPILLAR",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/caterpillar-colorado-2.0-naturel-veterboots/346385.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw8dcc6a6f/hi-res/pdp/346/346385/346385-1.jpg?sw=350"
+  },
+  {
+    "name": "TIMBERLAND",
+    "price": "220.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/timberland-6-inch-premium-gele-boots/313508.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwfbd2ce78/hi-res/pdp/313/313508/313508-1.jpg?sw=350"
+  },
+  {
+    "name": "AUSTRALIAN",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/australian-conley-cognac-veterboots/329961.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw7d87240b/hi-res/pdp/329/329961/329961-1.jpg?sw=350"
+  },
+  {
+    "name": "CAMEL ACTIVE",
+    "price": "120.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/camel-active-beige-bottines/348883.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw781f43bf/hi-res/pdp/348/348883/348883-1.jpg?sw=350"
+  },
+  {
+    "name": "VAGABOND SHOEMAKERS",
+    "price": "180.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/vagabond-cameron-zwarte-chelsea-boots/332180.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw33014b4a/hi-res/pdp/332/332180/332180-1.jpg?sw=350"
   },
   {
     "name": "ORIGIN",
     "price": "69.95",
-    "link": "https://www.torfs.be/nl/heren/schoenen/hoge-schoenen/origin-bruine-sneakers/313532.html?cgid=Heren-Schoenen-Hogeschoenen",
-    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw18656360/hi-res/pdp/313/313532/313532-1.jpg?sw=350"
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/origin-zwarte-veterboots/348582.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw62ec7fa7/hi-res/pdp/348/348582/348582-1.jpg?sw=350"
+  },
+  {
+    "name": "BULLBOXER",
+    "price": "99.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/bullboxer-cognac-veterboots/327427.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwe5e2700c/hi-res/pdp/327/327427/327427-1.jpg?sw=350"
+  },
+  {
+    "name": "JEEP",
+    "price": "69.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/jeep-indiana-bruine-bottinen/344464.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd9896567/hi-res/pdp/344/344464/344464-1.jpg?sw=350"
+  },
+  {
+    "name": "BULLBOXER",
+    "price": "99.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/bullboxer-cognac-chelsea-boots/327428.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3de825df/hi-res/pdp/327/327428/327428-1.jpg?sw=350"
+  },
+  {
+    "name": "BULLBOXER",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/bullboxer-cognac-chelsea-boots/328885.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw702a525a/hi-res/pdp/328/328885/328885-1.jpg?sw=350"
+  },
+  {
+    "name": "AUSTRALIAN",
+    "price": "150.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/australian-rockefeller-bruine-veterboots/329962.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw1d409218/hi-res/pdp/329/329962/329962-1.jpg?sw=350"
+  },
+  {
+    "name": "LUMBERJACK",
+    "price": "89.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/lumberjack-charlie-bruine-chelsea-boots/329974.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwba73a403/hi-res/pdp/329/329974/329974-1.jpg?sw=350"
+  },
+  {
+    "name": "BULLBOXER",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/bullboxer-bruine-bottines/328891.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd32907b2/hi-res/pdp/328/328891/328891-1.jpg?sw=350"
+  },
+  {
+    "name": "LUMBERJACK",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/lumberjack-river-kaki-bottines/329970.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwf1efb744/hi-res/pdp/329/329970/329970-1.jpg?sw=350"
+  },
+  {
+    "name": "CRAFTSMAN",
+    "price": "99.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/craftsman-zwarte-boots-met-rits/332154.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwf5c9852a/hi-res/pdp/332/332154/332154-1.jpg?sw=350"
+  },
+  {
+    "name": "BULLBOXER",
+    "price": "120.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/bullboxer-cognac-boots/328892.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw81784a31/hi-res/pdp/328/328892/328892-1.jpg?sw=350"
+  },
+  {
+    "name": "NIKE",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/nike-manoa-cognac-veterboots/327987.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwb3b60e64/hi-res/pdp/327/327987/327987-1.jpg?sw=350"
+  },
+  {
+    "name": "VAGABOND SHOEMAKERS",
+    "price": "170.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/vagabond-johnny-zwarte-chelsea-boots/332178.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dwd09f6c0e/hi-res/pdp/332/332178/332178-1.jpg?sw=350"
+  },
+  {
+    "name": "VAGABOND SHOEMAKERS",
+    "price": "180.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/vagabond-johnny-zwarte-veterboots/332179.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw9078154d/hi-res/pdp/332/332179/332179-1.jpg?sw=350"
+  },
+  {
+    "name": "VIA BORGO",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/via-borgo-mario-11-bruine-boots/331261.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw3841bafe/hi-res/pdp/331/331261/331261-1.jpg?sw=350"
+  },
+  {
+    "name": "CATERPILLAR",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/caterpillar-colfax-cognac-veterboots/329666.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw070a6178/hi-res/pdp/329/329666/329666-1.jpg?sw=350"
+  },
+  {
+    "name": "JEEP",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/jeep-willys-cognac-bottines/330969.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw1023f427/hi-res/pdp/330/330969/330969-1.jpg?sw=350"
+  },
+  {
+    "name": "JEEP",
+    "price": "110.00",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/jeep-willys-bruine-bottines/330970.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw45adf482/hi-res/pdp/330/330970/330970-1.jpg?sw=350"
+  },
+  {
+    "name": "JEEP",
+    "price": "69.95",
+    "link": "https://www.torfs.be/nl/heren/schoenen/boots/jeep-indiana-bruine-bottines/330962.html?cgid=Heren-Schoenen-Boots",
+    "image": "https://www.torfs.be/dw/image/v2/BCQR_PRD/on/demandware.static/-/Sites-torfs-catalog-master/default/dw37c50c77/hi-res/pdp/330/330962/330962-1.jpg?sw=350"
   }
 ]
