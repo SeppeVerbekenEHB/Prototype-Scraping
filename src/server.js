@@ -59,7 +59,7 @@ app.get('/scrape', (req, res) => {
 
     const scrapeScriptPath = path.resolve(__dirname, 'scrapeTorfs.js');
 
-    exec(`node ${scrapeScriptPath}`, (error, stdout, stderr) => {
+    exec(`node ${scrapeScriptPath} "${categoryUrl}"`, (error, stdout, stderr) => {
         if (error) {
             console.error(`Error executing scrape: ${error.message}`);
             return res.status(500).json({ message: 'Scraping failed', error: error.message });

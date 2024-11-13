@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const genderDropdown = document.getElementById('gender-dropdown');
     const categoryDropdown = document.getElementById('category-dropdown');
     const productGrid = document.getElementById('product-grid');
+    
 
     const categories = {
         heren: {
